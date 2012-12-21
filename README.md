@@ -1,4 +1,0 @@
-Pretty-Date
-===========
-
-Pretty Date
